@@ -1,0 +1,38 @@
+T-shirt(S-XL),5.50,1
+T-shirt(2XL),7.00,1
+T-shirt(3XL),8.50,1
+T-shirt(4XL),10.00,1
+T-shirt(S-XL),6.50,2
+T-shirt(2XL),8.00,2
+T-shirt(3XL),9.50,2
+T-shirt(4XL),11.00,2
+Long-sleeve(S-XL),9.50,1
+Long-sleeve(2XL),11.00,1
+Long-sleeve(3XL),13.50,1
+Long-sleeve(4XL),15.00,1
+Long-sleeve(S-XL),10.50,2
+Long-sleeve(2XL),12.00,2
+Long-sleeve(3XL),14.50,2
+Long-sleeve(4XL),16.00,2
+Windbreaker(S-XL),25.00,1
+Windbreaker(2XL),30.00,1
+Windbreaker(3XL),35.00,1
+Windbreaker(4XL),40.00,1
+Hooded Zipper(S-XL),26.50,1
+Hooded Zipper(2XL),28.00,1
+Hooded Zipper(3XL),29.50,1
+Hooded Zipper(4XL),31.00,1
+Hoodies(S-XL),18.50,1
+Hoodies(2XL),20.00,1
+Hoodies(3XL),21.50,1
+Hoodies(4XL),23.00,1
+Hats/Caps,9.50,1
+Tote bag(s),6.00,1
+Jersey(S-XL),9.00,1
+Jersey(2XL),10.50,1
+Jersey(3XL),12.00,1
+Jersey(4XL),13.50,1
+Name on back(all sizes),5.00,1
+Number on back(6-in),1.25,1
+Number on back(8-in),2.00,1
+Hand towel,5.50,1
