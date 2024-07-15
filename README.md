@@ -1,4 +1,4 @@
-# Billing System in Python (T-shirt store) (cw3-1)
+# City Guessing Game in Python (cw3-1)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4118113.svg)](https://doi.org/10.5281/zenodo.4118113)
 ## (Full Documentation)
 It is tied in with composing a program in python of an electronic store that offers electronic machines like phone, laptop and HDD etc.
