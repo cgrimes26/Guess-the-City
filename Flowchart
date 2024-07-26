@@ -1,49 +1,49 @@
-Start
+Start #done
   |
   V
-Install and import necessary libraries
+Install and import necessary libraries #done
   |
   V
-Initialize cities dictionary with city names and coordinates
+Initialize cities dictionary with city names and coordinates #done
   |
   V
-Choose a random city as the correct city
+Choose a random city as the correct city #done
   |
   V
-Print the list of city names for guessing
+Print the list of city names for guessing #done
   |
   V
 Game Loop:
   |  |
   |  V
-  |  Prompt user to input a city name
+  |  Prompt user to input a city name #done
   |    |
   |    V
-  |  Validate guess
+  |  Validate guess #done
   |    |
   |    V
-  |  Is the guessed city valid?
+  |  Is the guessed city valid? #done
   |    |    |
   |    |    V
-  |    |  Yes: Retrieve coordinates of guessed city
+  |    |  Yes: Retrieve coordinates of guessed city #done
   |    |       Calculate distance from correct city
   |    |       Check if the guessed city is correct
   |    |         |
   |    |         V
-  |    |       Is the guessed city correct?
+  |    |       Is the guessed city correct? #done
   |    |         |   |
   |    |         |   V
-  |    |         | No: Display distance from correct city
+  |    |         | No: Display distance from correct city #done
   |    |         |     Loop back to prompt user to guess again
   |    |         |
   |    |         V
-  |    |       Yes: Print congratulatory message
+  |    |       Yes: Print congratulatory message #done
   |    |         |
   |    |         V
-  |    |       End game
+  |    |       End game #done
   |    |
   |    V
-  |  No: Display error message and prompt user to guess again
+  |  No: Display error message and prompt user to guess again #done
   |
   V
 End
